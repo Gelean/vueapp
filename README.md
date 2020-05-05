@@ -26,6 +26,7 @@ Information and links for Vue development
 * https://nuxtjs.org
 * https://bootstrap-vue.org
 * https://vuetifyjs.com/en/
+* https://devhints.io/vue
 * https://www.youtube.com/watch?v=j55fHUJqtyw
 * https://www.youtube.com/watch?v=Wy9q22isx3U
 * https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node
