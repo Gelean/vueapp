@@ -17,7 +17,7 @@ Information and links for Vue development
    - Choose: Universal
    - Choose: jsconfig.json
 1. cd vueapp
-1. npm install vuetify
+1. npm install vuetify mongodb lodash @onekiloparsec/vue-xeditable
 1. npm run dev
 
 ## Links
