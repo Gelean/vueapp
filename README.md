@@ -12,7 +12,6 @@ Information and links for Vue development
    - Choose: Bootstrap Vue
    - Choose: Express
    - Choose: Axios, PWA Support
-   - Choose: ESLint, Prettier
    - Choose: Jest
    - Choose: Universal
    - Choose: jsconfig.json
