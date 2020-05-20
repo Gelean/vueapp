@@ -28,6 +28,7 @@ Information and links for Vue development
 * https://devhints.io/vue
 * https://www.youtube.com/watch?v=j55fHUJqtyw
 * https://www.youtube.com/watch?v=Wy9q22isx3U
+* https://www.youtube.com/watch?v=zzUpO8tXoaw
 * https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node
 * https://snipcart.com/blog/vuejs-blog-demo
 * https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6
