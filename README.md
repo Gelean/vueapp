@@ -4,10 +4,11 @@ Information and links for Vue development
 
 ## Initial Setup
 
+1. Download and install MongoDB
 1. Open up Editor or IDE (I used Visual Studio Code)
 1. Open up terminal
 1. npm install -g vue-cli npx
-2. npx create-nuxt-app vueapp
+1. npx create-nuxt-app vueapp
    - Choose: Javascript
    - Choose: NPM
    - Choose: Bootstrap Vue
