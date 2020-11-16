@@ -57,3 +57,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 * https://www.jennapederson.com/blog/2019/10/8/building-a-playground-with-nuxt-and-markdown
 * https://regenrek.com/posts/create-a-frontmatter-markdown-powered-blog-with-nuxt.js
 * https://code.visualstudio.com
+* https://github.com/FortAwesome/vue-fontawesome
