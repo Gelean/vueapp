@@ -46,6 +46,10 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 * https://nuxtjs.org
 * https://bootstrap-vue.org
 * https://vuetifyjs.com/en
+* https://www.creative-tim.com/vuematerial/
+* https://fontawesome.com/v6.0/docs/web/use-with/vue/
+* https://github.com/FortAwesome/vue-fontawesome
+* https://github.com/antonreshetov/vue-unicons
 * https://devhints.io/vue
 * https://www.youtube.com/watch?v=j55fHUJqtyw
 * https://www.youtube.com/watch?v=Wy9q22isx3U
@@ -57,4 +61,3 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 * https://www.jennapederson.com/blog/2019/10/8/building-a-playground-with-nuxt-and-markdown
 * https://regenrek.com/posts/create-a-frontmatter-markdown-powered-blog-with-nuxt.js
 * https://code.visualstudio.com
-* https://github.com/FortAwesome/vue-fontawesome
